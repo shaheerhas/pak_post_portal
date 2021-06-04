@@ -1,0 +1,124 @@
+
+body { 
+margin: 20;
+
+ background: #FFF; 
+ 
+}
+
+#icon
+{ width:15%; 
+  border:thick #000;
+   padding-top:5px;
+   border-right-width:thick; 
+   padding-left:10px;
+}
+
+#menubar
+{
+  background-color: #ed1b24;
+ width:100%;
+ height:60px;
+ color: #FFF; 
+ font-size:16px; 
+ font-family: Arial, Helvetica, sans-serif;
+  border-bottom: 2px solid white;
+}
+.float
+{float: left;  }
+.text
+{
+ color:#FFF; font-size:20px;  font-style: normal; font-family: "Courier New", Courier, monospace;   
+}
+#track
+{ 
+  width:15%;
+ height:auto;
+ border-right:solid #FFFFFF 2px;
+}
+#track ul li 
+{display:inline; word-spacing:8px;}
+
+
+#homebody
+{
+  width:100%;color: #000; font-size:16px; font-family: Arial, Helvetica, sans-serif;
+}
+
+
+  .homeinfo
+  { width:25%; padding-left:90px; padding-right:20px; padding-top:50px; font-size:60px; font-family:"Courier New", Courier, monospace; }
+.trackform
+  { width:25%; padding-left:150px; padding-right:20px;padding-top:70px; font-size:24px; }
+.signinabout
+  {width:25%; padding-left:50px; padding-right:20px;padding-top:100px;font-size:26px; }
+  .signinabout ul li
+  {list-style-type:none;}
+
+
+.boxBooking 
+{ border: solid #600; border-radius:4px;padding: 10px;margin-top: 10; }
+
+.boxBookingSubmit 
+{ border: solid #600; border-radius:4px;padding: 10px;margin-top: 10; }
+
+
+#bookbody
+{
+
+height:100%;width:100%; background-color: #0000; font-size:16px; font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#parcelSummaryTable
+{
+padding-left: 10px;
+padding-bottom: 10px;
+width :22%; 
+
+
+border:solid ;
+border-color: black;
+
+margin-right: 100px;
+}
+
+.widthofboxsignup 
+{ width:250px; height:35px; border: solid #600; border-radius:4px;padding: 20px;margin-top: 10; }
+
+.widthofboxReport 
+{ width:150px; height:35px; border: solid #600; border-radius:4px;padding: 20px;margin-top: 10; }
+
+.widthofboxsignin 
+{width:250px; height:30px; border: solid #600; border-radius:4px; margin:10px; }
+
+
+#info
+{width:40%; height:60px; word-spacing:5px; }
+#info ul li 
+{display:inline; word-spacing:8px;}
+a { color: inherit; text-decoration:none; } 
+
+#member
+{width:20%; word-spacing:10px;margin-right: 0px;}
+#member ul li 
+{display:inline; word-spacing:2px;}
+
+.textbooking
+{ 
+  padding-top:5px; padding-right: ; padding-bottom:; padding-left:0px; font-family:Georgia, "Times New Roman", Times, serif; font-weight:bold; 
+  
+}
+.textinfo
+{ padding-top:8px; padding-right: ; padding-bottom:; padding-left:0px; font-size:14px;
+  }
+.textmember
+
+{ 
+ padding-top:0px; padding-right: ; padding-bottom:0px ; padding-left:5px; font-size:14px;
+  
+} 
+
+.listdecoration
+{list-style:none; } 
+
